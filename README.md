@@ -41,7 +41,7 @@
 
 ### 🎵 音乐
 - 经常听的  
-  ![](https://img.shields.io/badge/Plum-N-3B5843?style=flat-square) ![](https://img.shields.io/badge/Fractal_Dreamers-Celestial_Horizon-00B4C6?style=flat-square) ![](https://img.shields.io/badge/Fractal_Dreamers-Whispers_from_a_Distant_Star-81C5EE?style=flat-square) ![](https://img.shields.io/badge/削除-Kronos-442C45?style=flat-square) ![](https://img.shields.io/badge/削除-Warlords_of_Atlantis-442C45?style=flat-square)
+  ![](https://img.shields.io/badge/Plum-N-3B5843?style=flat-square) ![](https://img.shields.io/badge/Fractal_Dreamers-Celestial_Horizon-00B4C6?style=flat-square) ![](https://img.shields.io/badge/Fractal_Dreamers-Whispers_from_a_Distant_Star-81C5EE?style=flat-square) ![](https://img.shields.io/badge/削除-Kronos-442C45?style=flat-square) ![](https://img.shields.io/badge/削除-Warlords_of_Atlantis-442C45?style=flat-square) ![](https://img.shields.io/badge/Timirage-Messy_World-FFFFFF?style=flat-square)
 
 - 标签  
   ![](https://img.shields.io/badge/Artcore(现代)-red?style=flat-square) ![](https://img.shields.io/badge/Dubstep-red?style=flat-square) ![](https://img.shields.io/badge/Drum_and_bass-red?style=flat-square)
