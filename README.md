@@ -1,7 +1,8 @@
 ## Hi there 👋
+## 只能阴间再见了
 
 ### 👤 关于我
-- 我是中国大陆江西省的一名准高一生
+- 我是中国大陆的高中生
 - 男
 - ENFP-T (带点I)
 - 不是 Gay
@@ -34,10 +35,10 @@
   ![](https://img.shields.io/badge/Minecraft-03AF42?style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI1IiBoZWlnaHQ9IjEwMjQiIHZpZXdCb3g9IjAgMCAxMDI1IDEwMjQiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik04OTYuNDI4IDEwMjRoLTc2OHEtNTMgMC05MC41LTM3LjVULjQyOCA4OTZWMTI4cTAtNTMgMzcuNS05MC41dDkwLjUtMzcuNWg3NjhxNTMgMCA5MC41IDM3LjV0MzcuNSA5MC41djc2OHEwIDUzLTM3LjUgOTAuNXQtOTAuNSAzNy41bTAtODMyaC0yNTZ2MjU2aC0yNTZWMTkyaC0yNTZ2MjU2aDI1NnYxMjhoLTEyOHYyNTZoMTI4VjcwNGgyNTZ2MTI4aDEyOFY1NzZoLTEyOFY0NDhoMjU2eiIvPjwvc3ZnPg==&logoColor=white) ![](https://img.shields.io/badge/在_Minecraft_里开纪-006566?style=flat-square)
 
 - 印象深的  
-  ![](https://img.shields.io/badge/OneShot-FFF775?style=flat-square) ![](https://img.shields.io/badge/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk-6D001B?style=flat-square) ![](https://img.shields.io/badge/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk-AA3232?style=flat-square) ![](https://img.shields.io/badge/Yume_Nikki-460C2D?style=flat-square) ![](https://img.shields.io/badge/独自在家-EC6465?style=flat-square) ![](https://img.shields.io/badge/不/存在的你，和我-F17181?style=flat-square) ![](https://img.shields.io/badge/Viewfinder-DA6739?style=flat-square) ![](https://img.shields.io/badge/超阈限空间-D9968A?style=flat-square) ![](https://img.shields.io/badge/做个好梦-000?style=flat-square)
+  ![](https://img.shields.io/badge/OneShot-FFF775?style=flat-square) ![](https://img.shields.io/badge/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk-6D001B?style=flat-square) ![](https://img.shields.io/badge/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk-AA3232?style=flat-square) ![](https://img.shields.io/badge/Yume_Nikki-460C2D?style=flat-square) ![](https://img.shields.io/badge/独自在家-EC6465?style=flat-square) ![](https://img.shields.io/badge/不/存在的你，和我-F17181?style=flat-square) ![](https://img.shields.io/badge/Viewfinder-DA6739?style=flat-square) ![](https://img.shields.io/badge/超阈限空间-D9968A?style=flat-square) ![](https://img.shields.io/badge/做个好梦-000?style=flat-square) ![](https://img.shields.io/badge/冬日树下的回忆-F7ACCC?style=flat-square) ![](https://img.shields.io/badge/冬日树下的回忆AFTER-F7ACCC?style=flat-square)
 
 - 标签  
-  ![](https://img.shields.io/badge/独立游戏-00A2FD?style=flat-square) ![](https://img.shields.io/badge/超现实游戏-00A2FD?style=flat-square) ![](https://img.shields.io/badge/心理恐怖-00A2FD?style=flat-square)
+  ![](https://img.shields.io/badge/独立游戏-00A2FD?style=flat-square) ![](https://img.shields.io/badge/超现实主义-00A2FD?style=flat-square) ![](https://img.shields.io/badge/心理恐怖-00A2FD?style=flat-square)
 
 ### 🎵 音乐
 - 经常听的  
