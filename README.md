@@ -1,16 +1,5 @@
 ## Hi there 👋
-### 👤 关于我
-- 中国大陆高中生
-- 男
-- ENFP-T (I)
-- 不是 Gay
-- 不是 Furry
-- 不是 LGBTQIAPK
-- 不是棍母
-- 是棍母
-- 不打飞机
-- 可能曾是 Tulpamancer (?)
-- Love Niko
+I Love Niko
 
 ### 🔧 开发环境
 -  ![](https://img.shields.io/badge/Xiaomi-MI_5X-FF6515?style=flat-square&logo=xiaomi&logoColor=white)![](https://img.shields.io/badge/Android-8.1-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Redmi-Note_9-FF6515?style=flat-square&logo=xiaomi&logoColor=white)![](https://img.shields.io/badge/Android-12-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNyw2aDE1YzAuNTUyLDAsMSwwLjQ0OCwxLDF2MTVjMCwwLjU1Mi0wLjQ0OCwxLTEsMUg3Yy0wLjU1MiwwLTEtMC40NDgtMS0xVjdDNiw2LjQ0OCw2LjQ0OCw2LDcsNnoiPjwvcGF0aD48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjUuMDQyLDIxLjk1OFY3YzAtMC41NTIsMC40NDgtMSwxLTFINDFjMC41NTIsMCwxLDAuNDQ4LDEsMXYxNC45NThjMCwwLjU1Mi0wLjQ0OCwxLTEsMUgyNi4wNDJDMjUuNDg5LDIyLjk1OCwyNS4wNDIsMjIuNTExLDI1LjA0MiwyMS45NTh6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTcsMjVoMTVjMC41NTIsMCwxLDAuNDQ4LDEsMXYxNWMwLDAuNTUyLTAuNDQ4LDEtMSwxSDdjLTAuNTUyLDAtMS0wLjQ0OC0xLTFWMjZDNiwyNS40NDgsNi40NDgsMjUsNywyNXoiPjwvcGF0aD48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjUsNDFWMjZjMC0wLjU1MiwwLjQ0OC0xLDEtMWgxNWMwLjU1MiwwLDEsMC40NDgsMSwxdjE1YzAsMC41NTItMC40NDgsMS0xLDFIMjZDMjUuNDQ4LDQyLDI1LDQxLjU1MiwyNSw0MXoiPjwvcGF0aD48L3N2Zz4=)  
@@ -19,10 +8,6 @@
 
 ### 🌍 社交媒体
 -  [![](https://img.shields.io/badge/Github-010409?style=flat-square&logo=github&logoColor=white)](https://github.com/thechuan1503) [![](https://img.shields.io/badge/Gitee-F06714?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/thechuan1503) [![](https://img.shields.io/badge/MineBBS-0379EE?style=flat-square)](https://www.minebbs.com/members/thechuan.41897/) [![](https://img.shields.io/badge/电子邮件-DB001C?style=flat-square&logo=gmail&logoColor=white)](mailto:thechuan1503@1503dev.top) [![](https://img.shields.io/badge/Telegram-07A7E3?style=flat-square&logo=telegram&logoColor=white)](https://m.sd.10086.cn/sd_fe_service/html-yd/index.html) [![](https://img.shields.io/badge/Delta_Chat-222222?style=flat-square)](https://i.delta.chat/#6FB854D2EF602462428A864EBB612AC54158C9EB&a=iehgo6r7c%40nine.testrun.org&n=TheChuan1503&i=B0m-rJlDpa2BJi8V-79I5psO&s=j7b_Ys2uWc25qytuuQsqkol4)
-
-### 🌐 网站
-- [thechuan1503.1503dev.top](https://thechuan1503.1503dev.top/)
-- [91video.cyou](https://91video.cyou/)
 
 ### 🎮 游戏
 - 
